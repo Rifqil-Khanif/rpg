@@ -1901,8 +1901,8 @@ module.exports = alpha = async (p22, p23, p24, p25, p26, p27, p28, p29, p30, p31
             contextInfo: {
               isForwarded: true,
               forwardedNewsletterMessageInfo: {
-                newsletterName: "JER - OFC | WhatsApp",
-                newsletterJid: "120363230370034677@newsletter"
+                newsletterName: "V.S.L | WhatsApp",
+                newsletterJid: "https://chat.whatsapp.com/Kh1kOsK33GCEohpf7ezrVs"
               },
               mentionedJid: [p23.sender],
               externalAdReply: {
